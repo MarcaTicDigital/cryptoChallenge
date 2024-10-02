@@ -1,0 +1,31 @@
+body{
+    background-color: #f3f5fc;
+}
+
+main{
+    display:flex;
+    justify-content: space-between;
+
+}
+header img{
+    width: 120px;
+    height: 48px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    margin-top: 20px;
+    width: 400px;
+}
+
+input{
+    background-color: #0A3871;
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+    border: aquamarine skyblue ;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
